@@ -37,23 +37,23 @@ LuxuryWheels allows users to browse high-end vehicles, explore rental options, a
 
 ### Homepage
 
-![Homepage](assets/luxurywheels/home.png)
+![Homepage](assets/Luxurywheels/home.png)
 
 ### Car Listings
 
-![Cars 1](assets/luxurywheels/lw1.png)
-![Cars 2](assets/luxurywheels/lw2.png)
+![Cars 1](assets/Luxurywheels/lw1.png)
+![Cars 2](assets/Luxurywheels/lw2.png)
 
 ### Booking Flow
 
-![Booking 1](assets/luxurywheels/lw3.png)
-![Booking 2](assets/luxurywheels/lw4.png)
+![Booking 1](assets/Luxurywheels/lw3.png)
+![Booking 2](assets/Luxurywheels/lw4.png)
 
 ### Additional Views
 
-![View 1](assets/luxurywheels/lw5.png)
-![View 2](assets/luxurywheels/lw6.png)
-![View 3](assets/luxurywheels/lw7.png)
+![View 1](assets/Luxurywheels/lw5.png)
+![View 2](assets/Luxurywheels/lw6.png)
+![View 3](assets/Luxurywheels/lw7.png)
 
 ---
 
