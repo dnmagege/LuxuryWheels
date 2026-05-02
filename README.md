@@ -37,7 +37,7 @@ LuxuryWheels allows users to browse high-end vehicles, explore rental options, a
 
 ### Homepage
 
-![Homepage](assets/Luxurywheels/home.png)
+![Homepage](assets/Luxurywheels/lw6.png)
 
 ### Car Listings
 
@@ -52,8 +52,7 @@ LuxuryWheels allows users to browse high-end vehicles, explore rental options, a
 ### Additional Views
 
 ![View 1](assets/Luxurywheels/lw5.png)
-![View 2](assets/Luxurywheels/lw6.png)
-![View 3](assets/Luxurywheels/lw7.png)
+![View 2](assets/Luxurywheels/lw7.png)
 
 ---
 
@@ -124,22 +123,8 @@ This project demonstrates:
 
 ## 📌 Author
 
-**Dafe Newton Magege**
+**Dafe Magege**
 
 * GitHub: [https://github.com/dnmagege](https://github.com/dnmagege)
 * Portfolio: ([My Portfolio](https://dnmagege.github.io/d-newton-portfolio/))
 
----
-
-## 🚀 Next Steps
-
-* Add authentication (login/register)
-* Improve UI with modern frameworks
-* Deploy with online database hosting
-* Convert to full-stack (React + API)
-
----
-
-If you want, I can next:
-✅ Make README files for **all your projects (Luxora, GlobalGossipNow, LoanTruth)**
-✅ Or turn your GitHub into a **top-tier recruiter-ready portfolio**
