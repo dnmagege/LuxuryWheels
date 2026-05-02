@@ -127,7 +127,7 @@ This project demonstrates:
 **Dafe Newton Magege**
 
 * GitHub: [https://github.com/dnmagege](https://github.com/dnmagege)
-* Portfolio: (add your GitHub Pages link here later)
+* Portfolio: ([My Portfolio](https://dnmagege.github.io/d-newton-portfolio/))
 
 ---
 
