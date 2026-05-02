@@ -56,40 +56,10 @@ LuxuryWheels allows users to browse high-end vehicles, explore rental options, a
 
 ---
 
-## ⚙️ Setup Instructions
 
-### Run Locally (XAMPP)
-
-1. Install **XAMPP**
-
-2. Place project folder inside:
-
-   ```
-   htdocs/
-   ```
-
-3. Start:
-
-   * Apache
-   * MySQL
-
-4. Import database:
-
-   * Open **phpMyAdmin**
-   * Create a new database
-   * Import your `.sql` file
-
-5. Open browser:
-
-   ```
-   http://localhost/luxurywheels
-   ```
-
----
-
-## 📂 Folder Structure
 
 ```
+## 📂 Folder Structure
 LuxuryWheels/
 │
 ├── assets/
